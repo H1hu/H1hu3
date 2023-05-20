@@ -1,0 +1,129 @@
+	
+	.CFT1{
+	font-size: 40px;
+	text-align: center;
+	font-family: Papyrus;
+	}
+	.CFT2{
+	font-size: 30px;
+	text-align: center;
+	}
+	.CFT3{
+	font-size: 20px;
+	}
+	.CFT4{
+	font-size: 25px;
+	text-align: center;
+	background-color: #888e90;
+	overflow: hidden;
+	border: 0px solid #888e90;
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border box;
+	outline: 0px;
+	text-align: center;
+	}
+	.CFT5{
+	font-size: 25px;
+	text-align: center;
+	}
+	.bgi1{
+		background: url(bgi1.jpg) no-repeat 900px 350px;
+	}
+	html{
+	background-image: url('mbg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	}
+	.grbg{
+	background-color:#C5C3C5;
+	}
+	#Landing{
+	border: 0px solid #FAF9F0;
+	}
+	nav{
+	background-color: #c0a376;
+	overflow: hidden;
+	border: 0px solid #c0a376;
+	margin-left: -30px;
+	margin-right: -30px;
+	padding: 0px;
+	box-sizing: border box;
+	outline: 0px;
+	text-align: center;
+	}
+	nav a{
+	font-size: 22px;
+	margin-left: 45.5px;
+	margin-right: 45px;
+	text-decoration: none;
+	color:black;
+	background-color: #c0a376;
+	padding: 0px;
+	outline: 0px;
+	}
+	nav a:hover{
+		background-color: #BABABA;
+	}
+	flr{
+		float: right;
+	}
+	header{
+		text-align: center;
+	}
+	html {
+		background-color: #D3D3D3;
+	}
+	.col1 {
+		text-align:center;
+		padding-left:0px;
+		width:33%;
+		float:left;
+	}
+	.col2 {
+		text-align:center;
+		padding-left:0px;
+		width:33%;
+		float:center;
+	}
+	.col3 {
+		text-align:center;
+		padding-left:0px;
+		width:25%;
+		float:left;
+	}
+	.col4 {
+		text-align:center;
+		padding-left:0px;
+		width:20%;
+		float:left;
+	}
+	h1 {
+		text-align: center;
+	}
+	#CCC{
+		
+	}
+	#BrH{
+		
+	}
+	.hbg{
+		background-image: url('hbg.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fit;
+		background-size: 100% 100%;
+		line-height: 2.0;
+		margin-top: -50px;
+		margin-left: -30px;
+		margin-right: -30px;
+		margin-bottom: -40px;
+	} 
+	.box{
+		background-color: #c0a376;
+		color: #000000;
+		opacity: .80;
+	}
+	
+	
+	
